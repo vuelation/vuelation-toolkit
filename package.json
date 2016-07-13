@@ -1,0 +1,25 @@
+{
+  "name": "vuelation-toolkit",
+  "description": "A collection of webpack loaders and Vue.js components used by Codelation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Brian Pattison",
+    "email": "brian@codelation.com",
+    "url": "http://brianpattison.com"
+  },
+  "homepage": "https://github.com/vuelation/vuelation-toolkit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuelation/vuelation-toolkit.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^1.0.24",
+    "vue-hot-reload-api": "^1.2.0",
+    "vue-html-loader": "^1.2.3",
+    "vue-icons": "^1.0.0",
+    "vue-loader": "^8.5.3",
+    "vue-style-loader": "^1.0.0",
+    "vuex": "^0.6.3"
+  }
+}
