@@ -6,7 +6,7 @@ A collection of [webpack](https://webpack.github.io) loaders and
 ## Installation
 
 ```sh
-$ npm install vuelation-toolkit --save-dev
+$ npm install vuelation-toolkit --save
 ```
 
 ## Why?
